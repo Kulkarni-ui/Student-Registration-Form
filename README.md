@@ -35,5 +35,4 @@ This project is a simple HTML-based web form designed to collect and manage stud
 
 - This form is static and does not include backend validation or storage.
 - It serves as a frontend template for a student registration system.
-
-Ideal for learning HTML forms and frontend design basics.
+- Ideal for learning HTML forms and frontend design basics.
